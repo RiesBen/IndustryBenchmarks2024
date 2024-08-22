@@ -1,0 +1,8 @@
+ligand_i	ligand_j	DDG(i->j) (kcal/mol)	uncertainty (kcal/mol)
+27chargR	28charg	-1.77	0.38
+29charg	30charg	0.04	0.46
+27chargR	30charg	0.24	0.14
+28charg	30charg	1.64	0.36
+21	30charg	2.26	0.15
+21	27chargR	1.98	0.14
+28charg	29charg	1.77	0.62

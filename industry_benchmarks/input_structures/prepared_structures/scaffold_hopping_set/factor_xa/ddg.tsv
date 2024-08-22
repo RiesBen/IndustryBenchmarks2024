@@ -1,0 +1,4 @@
+ligand_i	ligand_j	DDG(i->j) (kcal/mol)	uncertainty (kcal/mol)
+Edoxaban	4d	2.82	0.28
+4d	4c	-0.06	0.02
+Edoxaban	4c	3.38	0.59
